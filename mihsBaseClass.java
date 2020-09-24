@@ -1,6 +1,6 @@
 // Basic program setup for MIHS AP CS A Classes
 
-public class mihsClass
+public class mihsBaseClass
 {
   public static void main(String[] args)
   {
